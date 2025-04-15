@@ -23,6 +23,8 @@ def main():
         tmr += 1        
         clock.tick(10)
 
+        #aaa
+
 
 if __name__ == "__main__":
     pg.init()
