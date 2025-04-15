@@ -32,7 +32,8 @@ def main():
             kk_rct.move_ip((-1,0))
         else:
             kk_rct.move_ip((-1,0))
-
+            if key_list[pg.K_RIGHT]:
+                kk_rct.move_ip((1,0))
         
         
         
